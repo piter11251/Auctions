@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Auctions.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\wwwroot\\Images\\koszulka.jpg",
+      "PackagePath": "staticwebassets\\Images\\koszulka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\wwwroot\\Images\\piwo.jpg",
+      "PackagePath": "staticwebassets\\Images\\piwo.jpg"
+    },
+    {
       "Id": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
