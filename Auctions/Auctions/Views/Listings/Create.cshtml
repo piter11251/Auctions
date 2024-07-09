@@ -1,11 +1,12 @@
 ﻿@model Auctions.Models.ListingVM
 @using Microsoft.AspNetCore.Identity
-@inject UserManager<IdentityUser> userManager;
+@inject UserManager<IdentityUser> userManager
 @{
     ViewData["Title"] = "Create";
 }
 
-<h1>Create Listing</h1>
+<h2>Create Listing</h2>
+
 
 <hr />
 <div class="row">
@@ -34,6 +35,7 @@
             </div>
             
             <div class="form-group">
+
                 <input type="hidden" asp-for="IdentityUserId" class="form-control" value="@userManager.GetUserId(User)" />
             </div>
             <div class="form-group">

@@ -12,6 +12,7 @@ namespace Auctions.Models
         public double Price { get; set; }
         public IFormFile Image { get; set; }
         public bool IsSold { get; set; } = false;
+
         [Required]
         public string? IdentityUserId { get; set; }
         [ForeignKey("IdentityUserId")]

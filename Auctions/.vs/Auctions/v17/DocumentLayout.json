@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\migrations\\20240709165103_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\migrations\\20240709165103_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|c:\\users\\99pko\\documents\\github\\auctions\\auctions\\auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E9420448-B385-4CA2-8852-8D5D058EBF57}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,13 +82,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "20240709165103_new.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Migrations\\20240709165103_new.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Migrations\\20240709165103_new.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Migrations\\20240709165103_new.cs",
+              "RelativeToolTip": "Auctions\\Data\\Migrations\\20240709165103_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:51:03.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\appsettings.json",
+              "RelativeDocumentMoniker": "Auctions\\appsettings.json",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\appsettings.json",
+              "RelativeToolTip": "Auctions\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T16:46:36.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Models\\Comment.cs",
+              "RelativeToolTip": "Auctions\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:21:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\CommentsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\CommentsService.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\CommentsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\CommentsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:59:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\ICommentsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\ICommentsService.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\ICommentsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\ICommentsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:59:34.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Program.cs",
               "RelativeDocumentMoniker": "Auctions\\Program.cs",
               "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Program.cs",
               "RelativeToolTip": "Auctions\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T09:31:44.325Z",
               "EditorCaption": ""
@@ -81,27 +166,27 @@
               "RelativeDocumentMoniker": "Auctions\\Data\\Services\\BidsService.cs",
               "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\BidsService.cs",
               "RelativeToolTip": "Auctions\\Data\\Services\\BidsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T09:27:28.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IBidsService.cs",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\IBidsService.cs",
               "RelativeDocumentMoniker": "Auctions\\Data\\Services\\IBidsService.cs",
               "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\IBidsService.cs",
               "RelativeToolTip": "Auctions\\Data\\Services\\IBidsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T09:26:57.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "PaginatedList.cs",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\PaginatedList.cs",
               "RelativeDocumentMoniker": "Auctions\\PaginatedList.cs",
@@ -114,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_Layout.cshtml",
@@ -122,11 +207,12 @@
               "RelativeToolTip": "Auctions\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T15:02:44.07Z"
+              "WhenOpened": "2024-07-07T15:02:44.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Auctions\\wwwroot\\css\\site.css",
@@ -134,11 +220,12 @@
               "RelativeToolTip": "Auctions\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-07T14:59:15.771Z"
+              "WhenOpened": "2024-07-07T14:59:15.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Views\\Listings\\Index.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Index.cshtml",
@@ -146,36 +233,38 @@
               "RelativeToolTip": "Auctions\\Views\\Listings\\Index.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T12:50:55.583Z"
+              "WhenOpened": "2024-07-07T12:50:55.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Views\\Listings\\Details.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Details.cshtml",
               "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Views\\Listings\\Details.cshtml",
               "RelativeToolTip": "Auctions\\Views\\Listings\\Details.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAFAAAAALAAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAqwHoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T12:37:41.961Z"
+              "WhenOpened": "2024-07-07T12:37:41.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ListingsService.cs",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\ListingsService.cs",
               "RelativeDocumentMoniker": "Auctions\\Data\\Services\\ListingsService.cs",
               "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\ListingsService.cs",
               "RelativeToolTip": "Auctions\\Data\\Services\\ListingsService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowCYAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T12:27:35.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "IListingsService.cs",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Data\\Services\\IListingsService.cs",
               "RelativeDocumentMoniker": "Auctions\\Data\\Services\\IListingsService.cs",
@@ -188,13 +277,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ListingsController.cs",
               "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Controllers\\ListingsController.cs",
               "RelativeDocumentMoniker": "Auctions\\Controllers\\ListingsController.cs",
               "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\Auctions\\Auctions\\Auctions\\Controllers\\ListingsController.cs",
               "RelativeToolTip": "Auctions\\Controllers\\ListingsController.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAcwHEAAAA0AAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwCcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T15:41:49.473Z",
               "EditorCaption": ""
